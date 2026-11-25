@@ -7,6 +7,8 @@ dos protocolos TCP e UDP.
 
 O enunciado original está disponível em
 [`docs/unidade01-trab-pratico.pdf`](docs/unidade01-trab-pratico.pdf).
+Os slides da apresentação estão em
+[`TP Redes — Cliente-Servidor TCP & UDP.pdf`](TP%20Redes%20%E2%80%94%20Cliente-Servidor%20TCP%20%26%20UDP.pdf).
 
 ## Objetivo
 
@@ -30,6 +32,7 @@ ChatRedes/
   ClienteSwing.class
   Servidor.java
   Servidor.class
+TP Redes — Cliente-Servidor TCP & UDP.pdf
 docs/
   unidade01-trab-pratico.pdf
 README.md
@@ -37,6 +40,7 @@ README.md
 
 - `Servidor.java`: recebe conexões TCP e datagramas UDP na porta `5000`.
 - `ClienteSwing.java`: cria a janela Swing, conecta pelo TCP e envia o teste UDP.
+- `TP Redes — Cliente-Servidor TCP & UDP.pdf`: slides da apresentação do projeto.
 - `Servidor.class` e `ClienteSwing.class`: arquivos compilados já presentes no
   repositório; podem ser removidos/regerados ao compilar novamente.
 - `docs/unidade01-trab-pratico.pdf`: cópia do enunciado fornecido.
